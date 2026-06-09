@@ -2,7 +2,7 @@ package testNG;
 hididing last seen
 	audio function
 	video function
-	adding status train game 
+	adding status train game1 
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.AfterMethod;
